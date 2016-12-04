@@ -1,0 +1,8 @@
+#main-row{
+	margin-top: 40px;
+}
+
+/*覆盖bootstrap 中.glyphicon top:1px的属性 */
+.glyphicon{
+	top: 0px;
+}
